@@ -1,0 +1,110 @@
+[
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Methane (CH4)",
+    "value": 100.0,
+    "values": [124, 31, 125, 104, 15, 140, 8, 48],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Ethane (C2H6)",
+    "value": 50.0,
+    "values": [62, 71, 3, 54, 9, 6, 67, 67],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Ethylene (C2H4)",
+    "value": 50.0,
+    "values": [58, 19, 59, 23, 36, 55, 9, 7],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Acetylene (C2H2)",
+    "value": 10.0,
+    "values": [4, 10, 7, 11, 2, 15, 12, 9],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Hydrogen (H2)",
+    "value": 50.0,
+    "values": [19, 20, 19, 2, 14, 0, 24, 22],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Carbon Dioxide (CO2)",
+    "value": 2500.0,
+    "values": [3532, 1912, 2977, 502, 3010, 1264, 178, 2122],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Carbon Monoxide (CO)",
+    "value": 300.0,
+    "values": [61, 374, 146, 67, 225, 32, 428, 579],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Total dissolved combined gases",
+    "value": 500.0,
+    "values": [61, 374, 146, 67, 225, 32, 428, 579],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Breakdown voltage",
+    "value": 40.0,
+    "values": "null",
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Water content (H20)",
+    "value": 15.0,
+    "values": [79, 99, 42, 58, 66, 58, 91, 45],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Neutralization Value",
+    "value": 0.03,
+    "values": [0.08, 0.012, 0.068, 0.045, 0.076],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  },
+  {
+    "entityId": "tx_001",
+    "entityPropertyId": "Sediment & sludge",
+    "value": 1.0,
+    "values": [1, 1, 0, 1, 1, 0, 1, 2],
+    "readAt": "2023-01-13T13:45:00.41",
+    "transaction": "null",
+    "createdAt": "null"
+  }
+]
